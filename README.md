@@ -1,4 +1,4 @@
-This is a project I did to better understand the differences in player performance playing Acquire on [the website](tlstyer/acquire). It's a terrible place for beginners, but there are a LOT of experts there, so this is the first in a series to try to divine from the game archives what I can about how to play better.
+This is a project I did to better understand the differences in player performance playing Acquire on [the website](https://github.com/tlstyer/acquire). It's a terrible place for beginners, but there are a LOT of experts there, so this is the first in a series to try to divine from the game archives what I can about how to play better.
 
 The biggest overall lesson from this analysis is that merely playing more games is demonstrated to not be enough to attain better skill. This analysis shows that, of the players who played more than 500 games, only about 84 of them started out decent and still managed to get better (the other 86 percent of them either started poor or got worse after a good start).
 
